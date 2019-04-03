@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternsDao - escobar", "PatternsDao - escobar\PatternsDao - escobar.csproj", "{16C8CBE5-683D-4952-9458-A60BF005F26C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pedagio - sem if", "Pedagio\Pedagio - sem if.csproj", "{E34C7E2E-BD25-444D-B136-119FB8CB575E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce", "E-Commerce\E-Commerce.csproj", "{43F13588-E4E4-4CB3-9A66-FA285EBB6E6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C8CBE5-683D-4952-9458-A60BF005F26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C8CBE5-683D-4952-9458-A60BF005F26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C8CBE5-683D-4952-9458-A60BF005F26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C8CBE5-683D-4952-9458-A60BF005F26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E34C7E2E-BD25-444D-B136-119FB8CB575E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34C7E2E-BD25-444D-B136-119FB8CB575E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34C7E2E-BD25-444D-B136-119FB8CB575E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34C7E2E-BD25-444D-B136-119FB8CB575E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F13588-E4E4-4CB3-9A66-FA285EBB6E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F13588-E4E4-4CB3-9A66-FA285EBB6E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F13588-E4E4-4CB3-9A66-FA285EBB6E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F13588-E4E4-4CB3-9A66-FA285EBB6E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44364923-3E09-4857-A9C2-2380FAA7B964}
+	EndGlobalSection
+EndGlobal
